@@ -15,6 +15,7 @@ module.exports = {
 
         },
         port: 3000,
+        open: true,
     },
     watch: true,
     plugins: [new HTMLWebpackPlugin()],
